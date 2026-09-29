@@ -1,1 +1,1 @@
-Main: andere Änderung
+Main + Feature: Konflikt gelöst
